@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class sortingArray:
     def printArray(self,array):
         print(*array)
@@ -16,3 +17,6 @@ if __name__ == "__main__":
     print("Enter the elements in a space separated manner")
     array = list(map(int,input().split()))
     sortingArray().selectionSort(array)
+=======
+p
+>>>>>>> 374c287de215c1f9eb139e98a046ee586eb0b299
