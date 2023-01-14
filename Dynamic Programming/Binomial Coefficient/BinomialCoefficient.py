@@ -14,3 +14,5 @@ if __name__ == "__main__":
     n = int(input("Enter the value of n: "))
     k = int(input("Enter the value of k: "))
     print("Value of nCk is " , binom().binomialCoef(n , k))
+
+    
